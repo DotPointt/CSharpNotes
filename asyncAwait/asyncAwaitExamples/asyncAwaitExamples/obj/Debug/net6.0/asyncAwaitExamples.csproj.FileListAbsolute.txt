@@ -1,0 +1,14 @@
+D:\CSharpNotes\asyncAwait\asyncAwaitExamples\asyncAwaitExamples\bin\Debug\net6.0\asyncAwaitExamples.exe
+D:\CSharpNotes\asyncAwait\asyncAwaitExamples\asyncAwaitExamples\bin\Debug\net6.0\asyncAwaitExamples.deps.json
+D:\CSharpNotes\asyncAwait\asyncAwaitExamples\asyncAwaitExamples\bin\Debug\net6.0\asyncAwaitExamples.runtimeconfig.json
+D:\CSharpNotes\asyncAwait\asyncAwaitExamples\asyncAwaitExamples\bin\Debug\net6.0\asyncAwaitExamples.dll
+D:\CSharpNotes\asyncAwait\asyncAwaitExamples\asyncAwaitExamples\bin\Debug\net6.0\asyncAwaitExamples.pdb
+D:\CSharpNotes\asyncAwait\asyncAwaitExamples\asyncAwaitExamples\obj\Debug\net6.0\asyncAwaitExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpNotes\asyncAwait\asyncAwaitExamples\asyncAwaitExamples\obj\Debug\net6.0\asyncAwaitExamples.AssemblyInfoInputs.cache
+D:\CSharpNotes\asyncAwait\asyncAwaitExamples\asyncAwaitExamples\obj\Debug\net6.0\asyncAwaitExamples.AssemblyInfo.cs
+D:\CSharpNotes\asyncAwait\asyncAwaitExamples\asyncAwaitExamples\obj\Debug\net6.0\asyncAwaitExamples.csproj.CoreCompileInputs.cache
+D:\CSharpNotes\asyncAwait\asyncAwaitExamples\asyncAwaitExamples\obj\Debug\net6.0\asyncAwaitExamples.dll
+D:\CSharpNotes\asyncAwait\asyncAwaitExamples\asyncAwaitExamples\obj\Debug\net6.0\refint\asyncAwaitExamples.dll
+D:\CSharpNotes\asyncAwait\asyncAwaitExamples\asyncAwaitExamples\obj\Debug\net6.0\asyncAwaitExamples.pdb
+D:\CSharpNotes\asyncAwait\asyncAwaitExamples\asyncAwaitExamples\obj\Debug\net6.0\asyncAwaitExamples.genruntimeconfig.cache
+D:\CSharpNotes\asyncAwait\asyncAwaitExamples\asyncAwaitExamples\obj\Debug\net6.0\ref\asyncAwaitExamples.dll
